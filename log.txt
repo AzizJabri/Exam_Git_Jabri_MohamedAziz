@@ -1,0 +1,6 @@
+339edb3 merged feature_x
+d4dad5f added a new greeting
+510b3d3 Ajout de l'affichage de la date et l'heure
+a2b5691 Ajout du fichier app.py
+5141ef5 Mise a jour readme
+e897249 Initial commit
